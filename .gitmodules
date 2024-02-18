@@ -1,0 +1,6 @@
+[submodule "pastebin1s-api"]
+	path = pastebin1s-api
+	url = git@github.com:Sid-Sun/pastebin1s-api.git
+[submodule "pastebin1s-frontend"]
+	path = pastebin1s-frontend
+	url = git@github.com:Sid-Sun/pastebin1s-frontend.git
