@@ -1,4 +1,4 @@
-FROM golang:buster as api_build
+FROM golang:trixie as api_build
 
 WORKDIR /build
 COPY pastebin1s-api/go.mod .
